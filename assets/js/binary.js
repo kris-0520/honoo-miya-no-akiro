@@ -35257,7 +35257,7 @@ switch (step) {
   case 34:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "SABUROU SHIRAISHI";
+    s.tmp_0.arg2 = "kris_0520";
     s.tmp_0.arg3 = "Programmer\\nArtist/Designer\\nWriter\\nLevel Designer\\nOriginal Idea";
     s.callLocIdx = 218; s.pc = 32; return s.tmp_0;
   case 32:
@@ -35275,7 +35275,7 @@ switch (step) {
   case 37:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "TAROU KURODA";
+    s.tmp_0.arg2 = "the tired guy";
     s.tmp_0.arg3 = "Level Designer\\nPlay Tester\\nMain Assistant";
     s.callLocIdx = 221; s.pc = 35; return s.tmp_0;
   case 35:
@@ -35293,7 +35293,7 @@ switch (step) {
   case 40:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "RYOUHEI NAKAMURA";
+    s.tmp_0.arg2 = "pastor willy";
     s.tmp_0.arg3 = "Level Designer\\nPlay Tester\\nCreative Ideas";
     s.callLocIdx = 224; s.pc = 38; return s.tmp_0;
   case 38:
@@ -35329,7 +35329,7 @@ switch (step) {
   case 46:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "HARU HIDAKA";
+    s.tmp_0.arg2 = "neighbors";
     s.tmp_0.arg3 = "abc";
     s.callLocIdx = 230; s.pc = 44; return s.tmp_0;
   case 44:
@@ -35347,7 +35347,7 @@ switch (step) {
   case 49:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "NEJI-SENSEI";
+    s.tmp_0.arg2 = "sandner";
     s.tmp_0.arg3 = "abc";
     s.callLocIdx = 233; s.pc = 47; return s.tmp_0;
   case 47:
@@ -35365,7 +35365,7 @@ switch (step) {
   case 52:
     r0 = s.retval;
     s.tmp_0.arg1 = r0;
-    s.tmp_0.arg2 = "DAISUKE YOSHINAGA";
+    s.tmp_0.arg2 = "johnson";
     s.tmp_0.arg3 = "abc";
     s.callLocIdx = 236; s.pc = 50; return s.tmp_0;
   case 50:
